@@ -1,6 +1,7 @@
 # Llama-3.2-Finetuning-Imagine
 Using Unsloth to fine tune a model to give specific prompts  
 Dataset created from a mixture of real world inputs and chat gpt generations  
+GGUF File found on my HuggingFace  
 
 Some examples:  
 prompt: imagine if the sky was green  
